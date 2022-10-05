@@ -1,2 +1,2 @@
 # pkgs
- // Repository : New Archcraft Packages
+// Repository : Archcraft Packages
